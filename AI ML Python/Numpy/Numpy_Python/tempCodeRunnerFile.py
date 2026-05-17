@@ -1,0 +1,1 @@
+print(arr.dtype) # it will tell the data type of the array
