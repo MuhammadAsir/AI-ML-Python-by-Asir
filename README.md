@@ -1,6 +1,6 @@
 # AI-ML Python by Asir 🚀
 
-This repository contains my complete learning journey in Python for Data Science and Machine Learning. It includes basics, practice sheets, and hands-on work with essential data science libraries.
+This repository contains my complete learning journey in Python for Machine Learning. It includes basics, practice sheets, and hands-on work with essential data science libraries.
 
 ---
 
