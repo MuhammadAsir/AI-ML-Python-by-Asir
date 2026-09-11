@@ -1,0 +1,3 @@
+We are learning file handling in python.
+Let's see how it works.
+Let's goooo.
