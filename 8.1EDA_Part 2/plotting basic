@@ -1,0 +1,8 @@
+Plot	            Main Purpose	                                 Data Type
+lineplot()	    Show trends over time	                          Numeric + Continuous
+scatterplot()	Show relationship between 2 variables	                Numeric
+barplot()	    Compare averages between categories	              Categorical + Numeric
+histplot()	    Show frequency distribution	                            Numeric
+kdeplot()	    Show smooth distribution curve	                        Numeric
+countplot()	    Count categories	                                  Categorical
+boxplot()	    Detect spread & outliers	                            Numeric
